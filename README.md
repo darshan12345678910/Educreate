@@ -1,5 +1,5 @@
-"# Educreate" 
-# PDF Chatbot with LangChain & HuggingFace
+# Educreate
+## PDF Chatbot with LangChain & HuggingFace
 
 This project enables you to chat with the content of a PDF document using state-of-the-art language models and vector search. It uses LangChain for chaining, HuggingFace embeddings, FAISS for vector search, and a Groq-powered LLM for answering user queries based on PDF content.
 
