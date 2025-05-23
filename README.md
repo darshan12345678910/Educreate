@@ -19,4 +19,4 @@ This project enables you to chat with the content of a PDF document using state-
 - Python 3.8+
 - Install dependencies:
   ```bash
-  pip install -r Requirments.txt
+  pip install -r requirements.txt
